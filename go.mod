@@ -1,4 +1,4 @@
-module github.com/goschtalt/adapters-stl/stl
+module github.com/goschtalt/adapters-stl
 
 go 1.18
 
