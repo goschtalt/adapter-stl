@@ -1,5 +1,7 @@
 # adapters-stl
 
+These were moved into goschtalt, here: https://github.com/goschtalt/goschtalt/tree/main/pkg/adapter
+
 [![Build Status](https://github.com/goschtalt/adapters-stl/actions/workflows/ci.yml/badge.svg)](https://github.com/goschtalt/adapters-stl/actions/workflows/ci.yml)
 [![codecov.io](http://codecov.io/github/goschtalt/adapters-stl/coverage.svg?branch=main)](http://codecov.io/github/goschtalt/adapters-stl?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goschtalt/adapters-stl)](https://goreportcard.com/report/github.com/goschtalt/adapters-stl)
